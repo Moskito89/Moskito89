@@ -9,4 +9,4 @@ You can learn more here:
 - [www.tobiaskoengeter.de](https://www.tobiaskoengeter.de) My personal website.
 - [www.wirbelwild.com](https://www.wirbelwild.com) My company website.
 
-Connect with me in [Mastodon](https://sueden.social/@tobiaskoengeter). 
+Connect with me in <a href="https://sueden.social/@tobiaskoengeter" rel="me">Mastodon</a>.
